@@ -1,0 +1,5 @@
+I created 4 functions, Addition, Subtraction, Multiplication, and Division.
+num1 and num2.
+result.
+It used it to return the finished product to the caller after finished.
+For organization, future use, and easy of use.
